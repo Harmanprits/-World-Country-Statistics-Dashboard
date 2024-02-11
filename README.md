@@ -11,7 +11,7 @@ The dataset contains information about the population, land area, population den
 - **Tool's Use:** Power BI
 
 ## Key Performance Indicators (KPIs)
-The project emphasizes six key performance indicators (KPIs) to gain insights into employee retention and related factors:
+The project emphasizes four key performance indicators (KPIs) to gain insights into employee retention and related factors:
 
 - Top country by Land (Area)
 - Top country by Water (Storage)
